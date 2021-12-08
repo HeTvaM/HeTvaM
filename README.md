@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey Guys!
+#### :smile: I'm Danila!
+
+- :mortar_board: I'm study math
+- :computer: I'm work for USETECH
+- :bar_chart: I'm fond of graphical interfaces 
+- :video_game: I'm an aspiring game designer 
+
 
 <!--
 **Guddr/Guddr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
