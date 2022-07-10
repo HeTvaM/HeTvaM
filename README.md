@@ -3,8 +3,8 @@
 
 - :mortar_board: I'm study math
 - :computer: I'm work for USETECH
-- :bar_chart: I'm fond of graphical interfaces 
-- :video_game: I'm an aspiring game designer 
+- :bar_chart: I'm working with envoyproxy 
+- :video_game: I'm playing with Docker + CI \ CD
 
 
 <!--
