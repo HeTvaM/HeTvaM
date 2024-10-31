@@ -2,10 +2,11 @@
 #### :smile: I'm Danila!
 
 - :mortar_board: I'm study math
-- :computer: I'm work for USETECH
+- :computer: I'm work for AGIMA
 - :bar_chart: I'm working with envoyproxy 
 - :video_game: I'm playing with Docker + CI \ CD
 - :bar_chart: I'm using Grafana + Prometheus + Elasticsearch
+- :bat_chart: I'm using k8s and Helm
 
 
 <!--
